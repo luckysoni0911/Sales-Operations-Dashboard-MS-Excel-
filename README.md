@@ -1,18 +1,36 @@
-Sales-Operations-Dashboard-MS-Excel-# Sales Operations Dashboard using Microsoft Excel
+# Sales Operations Dashboard using Microsoft Excel
 
-Overview:-
-An interactive Sales Operations Dashboard developed in Microsoft Excel to monitor sales performance, track target achievement, and analyze key business metrics.
+# Overview
+An interactive Sales Operations Dashboard developed in Microsoft Excel to monitor sales performance, employee achievements, and target completion across different cities. The dashboard provides actionable insights through dynamic reports, charts, and interactive filters.
 
-Key Features :-
-- Sales Performance Analysis
-- Target vs Achievement Tracking
-- KPI Dashboard
-- Interactive Charts
-- Dynamic Slicers and Filters
+# Key Highlights
+- City-wise Sales Analysis
+- Employee Sales Performance
+- Total Sales Comparison
+- Target Achievement Analysis
+- Away from Target Analysis
+- Interactive City Filter
+- Dynamic Charts and Reports
 
-Tools Used :-
+# Dataset
+The dashboard is built using sales operations data, including:
+- Employee Name
+- City
+- Total Sales
+- Target Achievement %
+- Away from Target %
+
+# Tools & Technologies
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Slicers
+- Form Controls
 - Conditional Formatting
+
+# Business Value
+- Monitor sales performance across cities
+- Compare employee performance
+- Track target achievement
+- Identify employees below target
+- Support sales performance reviews
+
